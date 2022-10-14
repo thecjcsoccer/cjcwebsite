@@ -1,0 +1,5 @@
+Include Features of Application. Will act as an own source file for each Feature (As Needed).  This will make modifying the features easier for us.  Most difficult folder..
+
+authentication, settings, etc 
+
+TODO Not 100% sure what would be included in the features folder yet.

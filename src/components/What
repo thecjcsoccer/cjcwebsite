@@ -1,0 +1,7 @@
+Broken down into folders. Like Form (text box, etc) vs UI () vs ...  
+Whats the difference between form and ui ?  Is UI like more page specific?  Will contain most of the code?
+
+Basic (Presentational) Components here, so input small things like text, etc and output the component to screen.
+
+Whats a Component?
+--TODO

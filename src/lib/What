@@ -1,0 +1,6 @@
+Includes Libraries into their own file "Facade".  Wrap the Library in your own code (File in this folder). Then you will use the reference to your own code instead of the library across the project.
+This will allow easier global changes for libraries (Upgrades, issues, etc)
+
+
+What is a Library?
+--TODO
